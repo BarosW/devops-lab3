@@ -1,1 +1,1 @@
-To jest oryginalna wersja zdania.
+To jest moja wersja zdania uzywajac branch A.

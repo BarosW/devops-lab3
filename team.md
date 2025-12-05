@@ -1,4 +1,5 @@
 Informacje o czlonku zespolu
-Imię:
-Nazwisko:
-Ulubiona technologia: 
+Imię: Bartosz
+Nazwisko: Wojnarowicz
+Ulubiona technologia: Git
+
